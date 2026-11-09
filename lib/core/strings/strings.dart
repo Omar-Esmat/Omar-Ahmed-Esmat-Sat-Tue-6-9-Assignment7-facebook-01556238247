@@ -1,0 +1,30 @@
+abstract class Strings {
+  static const String facebookLogo = 'assets/images/facebook_splash_logo.png';
+  static const String metaLogo = 'assets/images/meta_logo.png';
+  static const String navbarLogo = 'assets/images/facebook_navbar_logo.png';
+  static const String story1 = 'assets/images/story1.jpg';
+  static const String storyAvatar1 = 'assets/images/story_avatar1.jpg';
+  static const String story2 = 'assets/images/story2.png';
+  static const String storyAvatar2 = 'assets/images/story_avatar2.jpg';
+  static const String story3 = 'assets/images/story3.jpg';
+  static const String storyAvatar3 = 'assets/images/story_avatar3.jpg';
+  static const String routeAvatar = 'assets/images/route_avatar.jpg';
+  static const String routeImg = 'assets/images/route_image.jpg';
+  static const String icPlus = 'assets/images/ic_plus.png';
+  static const String icSearch = 'assets/images/ic_search.png';
+  static const String icMessengar = 'assets/images/ic_messenger.png';
+  static const String icHome = 'assets/images/ic_home.png';
+  static const String icReels = 'assets/images/ic_reels.png';
+  static const String icStore = 'assets/images/ic_store.png';
+  static const String icProfile = 'assets/images/ic_profile.png';
+  static const String icNotification = 'assets/images/ic_notification.png';
+  static const String profileAvatar = 'assets/images/account_avatar.jpg';
+  static const String icPlusCircle = 'assets/images/ic_plus-circle.png';
+  static const String icGalary = 'assets/images/ic_green_galary.png';
+  static const String icEarth = 'assets/images/ic_earth.png';
+  static const String icMore = 'assets/images/ic_more.png';
+  static const String icHeart = 'assets/images/ic_heart.png';
+  static const String icChat = 'assets/images/ic_chat.png';
+  static const String icSend = 'assets/images/ic_send.png';
+  static const String icBookmark = 'assets/images/ic_bookmark.png';
+}
